@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+__pycache__/
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.tsv
+*.log
+*.sqlite3
+*.parquet
+*.h5
+*.json
+
+# Environment files
+.env
+*.env
+*.venv
+*.virtualenv
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# Output directories
+results/
+*.out
+*.log
+*.bak
+*.dat
+
+# IDE settings
+.idea/
+.vscode/
+
+# Operating system-specific files
+.DS_Store
+Thumbs.db
